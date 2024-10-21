@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EjemplosWHILE": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
