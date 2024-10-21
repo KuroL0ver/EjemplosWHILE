@@ -6,17 +6,23 @@
         {
 
             int repetir = 100;
-            int i = 0; //Este es un contador
+            int i = 100; //Este es un contador
 
+            // while
             while (i < repetir)
             {
-                i ++;
+                i++;
                 Console.WriteLine("Bienvenido  i=" + i);
             }
+            //do-while
+            do
+            {
+                i++;
+                Console.WriteLine("Bienvenido  i=" + i);
+            } while (i < repetir);
 
 
         }
     }
 }
-       
-       
+
